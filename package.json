@@ -1,5 +1,5 @@
 {
-  "name": "banck_fe",
+  "name": "cms",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -24,4 +24,9 @@
     "last 2 versions",
     "not dead"
   ]
+  "engines": {
+  "node": "14.x",
+  "npm": "6.x"
+}
+
 }
